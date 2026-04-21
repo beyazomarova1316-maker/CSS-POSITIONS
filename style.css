@@ -1,0 +1,37 @@
+.boxes {
+    width: 800px;
+    height: 800px;
+    background-color: aqua ;
+    position: relative;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+}
+.box-1{
+    background-color: royalblue;
+    top: 100px;
+    left: 100px;
+}
+.box-2{
+    background-color: tomato;
+  top: 100px;
+  right: 100px;
+}
+.box-3{
+    background-color: yellow;
+    bottom: 100px;
+    left: 100px;
+}
+.box-4{
+    background-color: hotpink;
+    bottom: 100px;
+    right: 100px;
+}
+div{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+  
+}
